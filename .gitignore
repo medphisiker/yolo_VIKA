@@ -1,0 +1,19 @@
+# dev folders
+.vscode
+__pycache__
+
+# datasets folders
+*datasets
+
+# ignore JSON2YOLO
+*JSON2YOLO
+
+# folder with results of running YOLOv8 tasks like predict,
+# train or validation
+*runs
+
+# YOLOv8 model files
+*.pt
+
+# image extensions
+*.PNG
