@@ -1,4 +1,4 @@
-#homework1
+# homework1
 
 Команда `yolo_VIKA`:
 * Владимир Кравцов
