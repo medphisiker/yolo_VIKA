@@ -12,6 +12,7 @@ __pycache__
 # folder with results of running YOLOv8 tasks like predict,
 # train or validation
 *runs
+*.onnx
 
 # YOLOv8 model files
 *.pt
