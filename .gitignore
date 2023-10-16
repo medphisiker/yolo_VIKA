@@ -21,3 +21,9 @@ __pycache__
 # image extensions
 *.PNG
 *.png
+
+# video files
+*.mov
+
+# zip-arhives
+*.zip
