@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "homework4_segmentation"
+version = "0.0.1"
+description = "yolov8-seg_model_distilation"
+authors = ["Anton Shiryaev <med.phisiker@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.23.3"
+torch = "1.13.1"
+torchvision = "0.14.1"
+ultralytics = "8.0.81"
+autodistill = "^0.1.12"
+autodistill-grounded-sam = "^0.1.1"
+autodistill-yolov8 = "^0.1.1"
+roboflow = "^1.1.7"
+supervision = "0.9.0"
+tqdm = "^4.66.1"
+ipywidgets = "^8.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -5,6 +5,7 @@ __pycache__
 
 # datasets folders
 *datasets
+*dataset
 
 # ignore JSON2YOLO
 *JSON2YOLO
@@ -19,3 +20,4 @@ __pycache__
 
 # image extensions
 *.PNG
+*.png
